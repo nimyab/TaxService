@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<Owners>
+	<Owner fullname="ZholobovA.A." inn="1111111111">
+		<properties prop="Appartment">
+			<square>567.6</square>
+			<worth>666666</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>7</horsepower>
+			<worth>5464566</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>6666666</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="ZholobovA.A." inn="1111111111">
+		<properties prop="Appartment">
+			<square>66.6</square>
+			<worth>666666</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>2</horsepower>
+			<worth>87777</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>997777</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="ZhdfgdfgoJ.A." inn="112243241111">
+		<properties prop="Appartment">
+			<square>534.6</square>
+			<worth>555</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>435345</horsepower>
+			<worth>345345345</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>55</distanceFromCity>
+			<worth>345345</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="ZhkkolvA.A." inn="11124234234">
+		<properties prop="Appartment">
+			<square>64456.4646</square>
+			<worth>797879</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>2</horsepower>
+			<worth>7889789</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>12312313</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="ZcnvbnvbnvA.A." inn="1345111111">
+		<properties prop="Appartment">
+			<square>666</square>
+			<worth>666666</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>66</horsepower>
+			<worth>87777</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>60</distanceFromCity>
+			<worth>997777</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="SererweA.A." inn="1888888111">
+		<properties prop="Appartment">
+			<square>88</square>
+			<worth>5756757</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>123</horsepower>
+			<worth>45345</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>997777</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="HgfhfghA.A." inn="1199991111">
+		<properties prop="Appartment">
+			<square>321</square>
+			<worth>23424</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>4</horsepower>
+			<worth>242344</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>234234</worth>
+		</properties>
+	</Owner>
+</Owners>

@@ -1,0 +1,27 @@
+﻿  Appartment.cpp
+  Car.cpp
+  CountryHouse.cpp
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\CountryHouse.h(22,72): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\CountryHouse.cpp(35,30): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+  Ijsonio.cpp
+  Owner.cpp
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\CountryHouse.h(22,72): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.cpp(9,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.cpp(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.cpp(65,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Property.cpp
+  TaxService.cpp
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\CountryHouse.h(22,72): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\TaxService.cpp(7,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab6oop.cpp
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\CountryHouse.h(22,72): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\lab6oop.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\artyo\Desktop\лаба6ООП\lab6oop\lab6oop\Owner.h(68): warning C4715: PropertyFactoryMethod::getProperty: значение возвращается не при всех путях выполнения
+  lab6oop.vcxproj -> C:\Users\artyo\Desktop\лаба6ООП\lab6oop\Debug\lab6oop.exe

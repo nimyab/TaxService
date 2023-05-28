@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Appartment">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAIAAAAAAAAAAAAAAAAAAAQAAAAABABBAAIAA=</HashCode>
+      <FileName>Appartment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car">
+    <Position X="14" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAQgAAAAAAAAAAAAAAAAQAAAAABABBAAAIA=</HashCode>
+      <FileName>Car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CountryHouse">
+    <Position X="16.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAQAAAAAAAAAAAAAAAAQAAAAABAJBAAAAA=</HashCode>
+      <FileName>CountryHouse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ijsonio">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAJAAAAAA=</HashCode>
+      <FileName>Ijsonio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ixmlio">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAIAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ijsonio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owner">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAMACAAAAAQAAAAAAACAAAAAgACABAAABEBBACAAA=</HashCode>
+      <FileName>Owner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertyFactoryMethod" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Owner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Property">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="Ijsonio" FixedToPoint="true">
+      <Path>
+        <Point X="16.75" Y="2.5" />
+        <Point X="16.75" Y="2.125" />
+        <Point X="14.5" Y="2.125" />
+        <Point X="14.5" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAQQAALAAAAARAAAQA=</HashCode>
+      <FileName>Property.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxService">
+    <Position X="21.25" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="Ijsonio" FixedToPoint="true">
+      <Path>
+        <Point X="16.75" Y="3.988" />
+        <Point X="16.75" Y="5.125" />
+        <Point X="22" Y="5.125" />
+        <Point X="22" Y="5.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAIAgIAAAAAAAAAAAAAgAAAAAAAABAAAAAA=</HashCode>
+      <FileName>TaxService.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Owners>
+	<Owner fullname="ZholobovA.A." inn="1111111111">
+		<sumtax>73158,520200</sumtax>
+		<tax>
+			<Appartment>2666,664000</Appartment>
+			<Car>3825,196200</Car>
+			<CountryHouse>66666,660000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="ZholobovA.A." inn="1111111111">
+		<sumtax>10705,879900</sumtax>
+		<tax>
+			<Appartment>666,666000</Appartment>
+			<Car>61,443900</Car>
+			<CountryHouse>9977,770000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="ZhdfgdfgoJ.A." inn="112243241111">
+		<sumtax>9327779,985000</sumtax>
+		<tax>
+			<Appartment>2,220000</Appartment>
+			<Car>9324324,315000</Car>
+			<CountryHouse>3453,450000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="ZhkkolvA.A." inn="11124234234">
+		<sumtax>131837,498300</sumtax>
+		<tax>
+			<Appartment>3191,516000</Appartment>
+			<Car>5522,852300</Car>
+			<CountryHouse>123123,130000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="ZcnvbnvbnvA.A." inn="1345111111">
+		<sumtax>12705,877900</sumtax>
+		<tax>
+			<Appartment>2666,664000</Appartment>
+			<Car>61,443900</Car>
+			<CountryHouse>9977,770000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="SererweA.A." inn="1888888111">
+		<sumtax>16051,942000</sumtax>
+		<tax>
+			<Appartment>5756,757000</Appartment>
+			<Car>317,415000</Car>
+			<CountryHouse>9977,770000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="HgfhfghA.A." inn="1199991111">
+		<sumtax>2605,676800</sumtax>
+		<tax>
+			<Appartment>93,696000</Appartment>
+			<Car>169,640800</Car>
+			<CountryHouse>2342,340000</CountryHouse>
+		</tax>
+	</Owner>
+</Owners>

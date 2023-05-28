@@ -1,0 +1,152 @@
+{
+  "Owners": [
+    {
+      "fullname": "ZholobovA.A.",
+      "inn": "1111111111",
+      "properties": [
+        {
+          "Appartment": {
+            "square": 66.6,
+            "worth": 666666
+          }
+        },
+        {
+          "Car": {
+            "horsepower": 2,
+            "worth": 87777
+          }
+        },
+        {
+          "CountryHouse": {
+            "distanceFromCity": 100,
+            "worth": 997777
+          }
+        }
+      ]
+    },
+    {
+      "fullname": "SokolnikovS.A.",
+      "inn": "2222222222",
+      "properties": [
+        {
+          "Appartment": {
+            "square": 20,
+            "worth": 150000
+          }
+        },
+        {
+          "Car": {
+            "horsepower": 5,
+            "worth": 50000
+          }
+        },
+        {
+          "CountryHouse": {
+            "distanceFromCity": 10000,
+            "worth": 1110000
+          }
+        }
+      ]
+    },
+    {
+      "fullname": "BolshakovM.M.",
+      "inn": "3333333333",
+      "properties": [
+        {
+          "Appartment": {
+            "square": 132,
+            "worth": 1231331
+          }
+        },
+        {
+          "Car": {
+            "horsepower": 76.8,
+            "worth": 600000
+          }
+        },
+        {
+          "CountryHouse": {
+            "distanceFromCity": 100,
+            "worth": 1997777
+          }
+        }
+      ]
+    },
+    {
+      "fullname": "KotelnicovE.E.",
+      "inn": "4444444444",
+      "properties": [
+        {
+          "Appartment": {
+            "square": 75,
+            "worth": 5000000
+          }
+        },
+        {
+          "Car": {
+            "horsepower": 75,
+            "worth": 1000000
+          }
+        },
+        {
+          "CountryHouse": {
+            "distanceFromCity": 100,
+            "worth": 3000000
+          }
+        }
+      ]
+    },
+    {
+      "fullname": "KryazhevG.O.",
+      "inn": "5555555555",
+      "properties": [
+        {
+          "Appartment": {
+            "square": 200,
+            "worth": 20000000
+          }
+        },
+        
+        {
+          "Car": {
+            "horsepower": 150,
+            "worth": 10000000
+          }
+        },
+        
+        {
+          "CountryHouse": {
+            "distanceFromCity": 200,
+            "worth": 50000000
+          }
+        }
+      ]
+    },
+    {
+      "fullname": "RaskopinA.S.",
+      "inn": "6666666666",
+      "properties": [
+        
+        {
+          "Appartment": {
+            "square": 50,
+            "worth": 2000000
+          }
+        },
+        
+        {
+          "Car": {
+            "horsepower": 90,
+            "worth": 200000
+          }
+        },
+        {
+          "CountryHouse": {
+            "distanceFromCity": 100,
+            "worth": 1500000
+          }
+        }
+      ]
+    }
+  ]
+}

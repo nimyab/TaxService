@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Owners>
+	<Owner fullname="ZolobovA.A." inn="1111111111">
+		<sumtax>10705,879900</sumtax>
+		<tax>
+			<Appartment>666,666000</Appartment>
+			<Car>61,443900</Car>
+			<CountryHouse>9977,770000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="SokolnikovS.A." inn="2222222222">
+		<sumtax>11285,000000</sumtax>
+		<tax>
+			<Appartment>150,000000</Appartment>
+			<Car>35,000000</Car>
+			<CountryHouse>11100,000000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="BolshakovM.M." inn="3333333333">
+		<sumtax>25323,094000</sumtax>
+		<tax>
+			<Appartment>4925,324000</Appartment>
+			<Car>420,000000</Car>
+			<CountryHouse>19977,770000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="KotelnicovE.E." inn="4444444444">
+		<sumtax>35700,000000</sumtax>
+		<tax>
+			<Appartment>5000,000000</Appartment>
+			<Car>700,000000</Car>
+			<CountryHouse>30000,000000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="KryazhevG.O." inn="5555555555">
+		<sumtax>650000,000000</sumtax>
+		<tax>
+			<Appartment>80000,000000</Appartment>
+			<Car>70000,000000</Car>
+			<CountryHouse>500000,000000</CountryHouse>
+		</tax>
+	</Owner>
+	<Owner fullname="RaskopinA.S." inn="6666666666">
+		<sumtax>17140,000000</sumtax>
+		<tax>
+			<Appartment>2000,000000</Appartment>
+			<Car>140,000000</Car>
+			<CountryHouse>15000,000000</CountryHouse>
+		</tax>
+	</Owner>
+</Owners>

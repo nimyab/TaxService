@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Owners>
+	<Owner fullname="ZolobovA.A." inn="1111111111">
+		<properties prop="Appartment">
+			<square>66.6</square>
+			<worth>666666</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>2</horsepower>
+			<worth>87777</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>997777</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="SokolnikovS.A." inn="2222222222">
+		<properties prop="Appartment">
+			<square>29</square>
+			<worth>150000</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>5</horsepower>
+			<worth>50000</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>10000</distanceFromCity>
+			<worth>1110000</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="BolshakovM.M." inn="3333333333">
+		<properties prop="Appartment">
+			<square>132</square>
+			<worth>1231331</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>76.8</horsepower>
+			<worth>600000</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>1997777</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="KotelnicovE.E." inn="4444444444">
+		<properties prop="Appartment">
+			<square>75</square>
+			<worth>5000000</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>75</horsepower>
+			<worth>1000000</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>3000000</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="KryazhevG.O." inn="5555555555">
+		<properties prop="Appartment">
+			<square>200</square>
+			<worth>20000000</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>150</horsepower>
+			<worth>10000000</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>200</distanceFromCity>
+			<worth>50000000</worth>
+		</properties>
+	</Owner>
+	<Owner fullname="RaskopinA.S." inn="6666666666">
+		<properties prop="Appartment">
+			<square>50</square>
+			<worth>2000000</worth>
+		</properties>
+		<properties prop="Car">
+			<horsepower>90</horsepower>
+			<worth>200000</worth>
+		</properties>
+		<properties prop="CountryHouse">
+			<distanceFromCity>100</distanceFromCity>
+			<worth>1500000</worth>
+		</properties>
+	</Owner>
+</Owners>
+
+
+
